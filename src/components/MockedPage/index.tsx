@@ -5,7 +5,6 @@ import DataTable from "./components/DataTable";
 const MockedPage = ({ onStartTour }: { onStartTour: () => void }) => {
   return (
     <>
-      {" "}
       <div className="welcome-header">
         <h1>Dashboard POC</h1>
         <p>
@@ -40,7 +39,7 @@ const MockedPage = ({ onStartTour }: { onStartTour: () => void }) => {
             color="#f39c12"
           />
         </div>
-        <div className="revenue-card">
+        <div id="revenue-card">
           <DashboardCard
             title="Monthly Revenue"
             value={45678}

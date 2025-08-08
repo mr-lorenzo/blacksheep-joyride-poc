@@ -37,7 +37,7 @@ export const steps: Step[] = [
     placement: "top",
   },
   {
-    target: ".revenue-card",
+    target: "#revenue-card",
     content:
       "Your revenue tracking - this is the most important metric for your business growth!",
     title: "Revenue Tracking 💰",
