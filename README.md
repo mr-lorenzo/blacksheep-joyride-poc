@@ -194,10 +194,6 @@ Potential improvements for production use:
 
 This project is open source and available under the MIT License.
 
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
 ---
 
 **Note**: This is a proof of concept demonstrating react-joyride capabilities. For production use, consider implementing proper error handling, loading states, and additional accessibility features.
